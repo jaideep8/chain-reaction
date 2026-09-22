@@ -37,7 +37,7 @@ Deploy
 
 ## MIT License
 
-Copyright (c) 2022 Bharath Bandaru
+Copyright (c) 2026Jaideep Vaddela
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
